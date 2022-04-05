@@ -37,10 +37,12 @@ ul{
     background-color: #954DFF;
     border-radius: 10px;
     outline: 3px solid rgb(0, 0, 0);
+    list-style: none;
 }
 
 li{
      color: #e4d2ff;
      margin: 5px;
+     margin-right: 20px;
  }
 
