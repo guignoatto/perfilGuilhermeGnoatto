@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.minhaClasse{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.199);
+    align-content: center;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    flex-flow: row;
+}
